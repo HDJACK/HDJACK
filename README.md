@@ -1,2 +1,0 @@
-# HDJACK.
-Nothing special
