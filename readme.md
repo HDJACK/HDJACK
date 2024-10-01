@@ -19,5 +19,5 @@ Through my education and courses in Germany, I’ve developed skills in:
 
 - 🛠️ **Hardware** and **Software Configuration**  
 - 🖥️ **Server Administration**  
-- 🔒 **IT Security** and **network protection  **
+- 🔒 **IT Security** and **network protection**
 - 🌐 **Networking**: Building networks with routers, switches, computer systems, servers, and more.
